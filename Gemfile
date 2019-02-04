@@ -11,6 +11,9 @@ gem 'sqlite3'
 gem 'puma', '~> 3.11'
 gem 'rspec-rails'
 gem 'factory_bot_rails'
+gem 'active_model_serializers'
+gem 'kaminari'
+gem "octokit", "~> 4.0"
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
